@@ -16,5 +16,3 @@ const generatePage = (name, github) => {
     </html>
     `;
 };
-
-module.exports = generatePage;
